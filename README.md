@@ -11,6 +11,8 @@ Scripts SQL para una base de datos en Oracle, también se incluyen scripts con P
   * Contiene scripts para la generación de objeto ya sea directamente, o con PL/SQL.
 * **DQL**:
   * Contiene scripts con sentencias SELECT ya sea directamente, o con PL/SQL.
+* **Funciones**:
+  * Contiene funciones prácticas compiladas en Oracle.
 * **Procedures**:
   * Contiene procedimientos almacenados prácticos en Oracle.
 * **Scripts**:
